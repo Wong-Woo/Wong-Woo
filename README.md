@@ -1,5 +1,7 @@
 ## Hi. I'm an adas research engineer who interested in development.
-I am recently interested in investment / probabilistic theories(including deep learning) for sensor fusion / high-speed cross platform simulator for adas using graphics APIs. (Most of my repositories are related to investment. Because I'm unable to upload anything about adas because of National Core Technology Protection Act)
+I am recently interested in investment / probabilistic theories(including deep learning) for sensor fusion / high-speed cross platform simulator for adas using graphics APIs. 
+
+(Most of my repositories are related to investment. Because I'm unable to upload anything about adas because of National Core Technology Protection Act)
 
 ## My Core Philosophy
 - Use of idiomatic expressions
