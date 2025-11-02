@@ -6,7 +6,9 @@ I am recently interested in investment / probabilistic theories(including deep l
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wong-Woo&size_weight=0.5&count_weight=0.5&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-<details Career>
+
+## Career
+<details Inha University>
 <summary><strong>
 Inha University, Department of Mechanical Engineering 
 </strong></summary>
@@ -22,6 +24,9 @@ Inha University, Department of Mechanical Engineering
         [Make Integrated H/W Platform for GPS/IMU with 3D Printer](https://youtu.be/ZbwTwUUQbUk?si=oE_HuYFaitMwMRYs)
         [GPS/IMU/Odometry Fusion](https://www.notion.so/GPS-IMU-Odometry-FUSION-3910e64eb1fb48a78df026765d4e3c31?pvs=21)
 
+</details>
+
+<details SSAFY>
 <summary><strong>
 Samsung Software Academy for Youth (SSAFY)
 </strong></summary>
@@ -30,9 +35,11 @@ Samsung Software Academy for Youth (SSAFY)
 - Top Award in the midterm project competition
     [Built a mapping system using ultrasonic sensors and servo motors](https://youtu.be/3ka5UFCtAjc?si=LPB4orCusXYozKUw)
 - Discrete system Analysis of a Billiards Simulation
+</details>
 
+<details Hyundai MOBIS>
 <summary><strong>
-Hyundai Mobis — ADAS Research & Development
+Hyundai MOBIS — ADAS Research & Development
 </strong></summary>
 
 - PCA-S (Parking Collision-Avoidance – Side) Sensor Fusion Development
@@ -50,7 +57,9 @@ Hyundai Mobis — ADAS Research & Development
 
 - Parallel Processing with ARM Neon (SIMD)
     - Working on
+</details>
 
+<details Side>
 <summary><strong>
 Side Projects
 </strong></summary>
