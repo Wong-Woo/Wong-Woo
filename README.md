@@ -29,10 +29,11 @@ Side Projects
 Hyundai MOBIS — ADAS Research & Development [2022 ~ ]
 </strong></summary>
 
-- PCA-S (Parking Collision-Avoidance – Side) Sensor Fusion Development
+- PCA-S (Parking Collision Avoidance – Side) Sensor Fusion Development
     - Developed perception and decision logic for a camera–ultrasonic sensor fusion system
     - Conducted validation tests and parameter optimization for mass production
     - Reduced memory usage by **40%** through minimizing global and logging variables
+    - SW Deployment across more than **20** vehicle models
 
 - High-Performance SILS (Software-in-the-Loop Simulation) Environment in C++
     - Achieved a **7×** faster analysis speed compared to MATLAB/Simulink
@@ -44,6 +45,11 @@ Hyundai MOBIS — ADAS Research & Development [2022 ~ ]
 
 - Parallel Processing with ARM Neon (SIMD)
     - preprocessing a large array (size > 100,000)
+
+- Occupancy Grid Map Development
+    - Map for autonomous parking
+    - Working on
+
 </details>
 
 <details SSAFY>
