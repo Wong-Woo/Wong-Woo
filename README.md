@@ -26,7 +26,7 @@ Side Projects
 
 <details Hyundai MOBIS>
 <summary><strong>
-Hyundai MOBIS — ADAS Research & Development [2022 ~ ]
+Hyundai MOBIS — ADAS SW Research & Development [2022 ~ ]
 </strong></summary>
 
 - PCA-S (Parking Collision Avoidance – Side) Sensor Fusion Development
@@ -47,7 +47,7 @@ Hyundai MOBIS — ADAS Research & Development [2022 ~ ]
     - preprocessing a large array (size > 100,000)
 
 - Occupancy Grid Map Development
-    - Map for autonomous parking
+    - Map for autonomous parking feature
     - Working on
 
 </details>
