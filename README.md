@@ -20,7 +20,6 @@ Side Projects
 - HFT System in Rust (In private)
     - High Performance and Safe from Error Handling
     - Benchmarking Read Performance of Compression Formats
-    - Trying price prediction with deep learning
     - Working on
 </details>
 
