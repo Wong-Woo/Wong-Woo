@@ -5,7 +5,7 @@ I am recently interested in investment / probabilistic theories(including deep l
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wong-Woo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wong-Woo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Career
